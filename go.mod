@@ -1,3 +1,3 @@
 module github.com/theritikchoure/go-test-action
 
-go 1.21.0
+go 1.16.0
